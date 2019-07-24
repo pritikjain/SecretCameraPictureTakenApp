@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="versantBlue">#275C82</color>
+    <color name="versantOrange">#DC8C50</color>
+    <color name="versantGreen">#348852</color>
+    <color name="versant54Gray">#717171</color>
+    <color name="versantBluePressed">#183A52</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Black">#000000</color>
+    <color name="VersantBackground">#F2F2F2</color>
+    <color name="versantInactiveButton">#1E000000</color>
+    <color name="versantInactiveText">#54000000</color>
+    <color name="versantDarkGray">#626262</color>
+    <color name="versantLightGray">#838383</color>
+</resources>
