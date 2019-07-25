@@ -4,7 +4,7 @@
 
 <item android:state_enabled="false">
     <shape>
-        <solid android:color="@color/versantInactiveButton"/>
+        <solid android:color="@color/inactiveButton"/>
         <!--<stroke-->
         <!--android:width="1dp"-->
         <!--android:color="@color/Black" />-->
@@ -16,7 +16,7 @@
 
 <item android:state_focused="true" android:state_pressed="true">
 <shape>
-    <solid android:color="@color/versantBluePressed"/>
+    <solid android:color="@color/bluePressed"/>
     <!--<stroke-->
     <!--android:width="1dp"-->
     <!--android:color="@color/Black" />-->
@@ -27,7 +27,7 @@
 
 <item android:state_focused="true" android:state_pressed="true">
 <shape>
-    <solid android:color="@color/versantBluePressed"/>
+    <solid android:color="@color/bluePressed"/>
     <!--<stroke-->
     <!--android:width="1dp"-->
     <!--android:color="@color/Black" />-->
@@ -49,7 +49,7 @@
 
 <item android:state_focused="true" android:state_pressed="false">
 <shape>
-    <solid android:color="@color/versantBlue"/>
+    <solid android:color="@color/appBlue"/>
     <!--<stroke-->
     <!--android:width="1dp"-->
     <!--android:color="@color/Black" />-->
@@ -66,7 +66,7 @@
     <!--android:endColor="#FFFFFF"-->
     <!--android:startColor="#F2F2F2"-->
     <!--/>-->
-    <solid android:color="@color/versantBlue"/>
+    <solid android:color="@color/appBlue"/>
     <!--<stroke-->
     <!--android:width="0.7dp"-->
     <!--android:color="#BDBDBD"/>-->
