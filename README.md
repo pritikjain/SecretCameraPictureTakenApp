@@ -19,5 +19,18 @@ Libraries which get used in this App:
 2. android-hidden-camera  //  For Camera taking pictures secretly
 3. retrofit2              //  For Faster File Upload
 
+Apps Screenshots
+
+![First screen shot](https://github.com/pritikjain/SecretCameraPictureTakenApp/blob/master/apk/1.png)
+
+open camera in the app instead of using inbuild camera app
+![Second screen shot](https://github.com/pritikjain/SecretCameraPictureTakenApp/blob/master/apk/2.png)
+
+click "First click" button and app in background taking the picture, saving in app data folder and tries to upload to server
+![Thrid screen shot](https://github.com/pritikjain/SecretCameraPictureTakenApp/blob/master/apk/3.png)
+
+click "Second click" button and app in background taking the picture, saving in app data folder and tries to upload to server
+![Fourth screen shot](https://github.com/pritikjain/SecretCameraPictureTakenApp/blob/master/apk/4.png)
 
 
+If you are planing to run the app please change the IP address in file AppConfig.java at BASE_URL with the IP address of server where you want to upload the files.
