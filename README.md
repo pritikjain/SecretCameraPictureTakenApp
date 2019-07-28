@@ -23,13 +23,15 @@ Apps Screenshots
 
 ![First screen shot](https://github.com/pritikjain/SecretCameraPictureTakenApp/blob/master/apk/1.png)
 
-open camera in the app instead of using inbuild camera app
+camera get opened in the app instead of using inbuild camera app // Front facing : can be changed to back facing through camera Capabilities.
 ![Second screen shot](https://github.com/pritikjain/SecretCameraPictureTakenApp/blob/master/apk/2.png)
 
 click "First click" button and app in background taking the picture, saving in app data folder and tries to upload to server
+
 ![Thrid screen shot](https://github.com/pritikjain/SecretCameraPictureTakenApp/blob/master/apk/3.png)
 
 click "Second click" button and app in background taking the picture, saving in app data folder and tries to upload to server
+
 ![Fourth screen shot](https://github.com/pritikjain/SecretCameraPictureTakenApp/blob/master/apk/4.png)
 
 
